@@ -7,4 +7,5 @@
 * [什么是数据去重，数据去重有什么用](shi-yao-shi-shu-ju-qu-zhong-ff0c-shu-ju-qu-zhong-you-shi-yao-yong.md)
 * [什么是cookies,我要怎么设置cookies](shi-yao-shi-cookies-wo-yao-zen-yao-she-zhi-cookies.md)
 * [什么是webhook,我要怎么设置webhook](shi-yao-shi-webhook-woyao-zen-yao-she-zhi-webhook.md)
+* [如何采集二级页面——深度采集的功能](ru-he-cai-ji-er-ji-ye-mian-2014-2014-shen-du-cai-ji-de-gong-neng.md)
 
