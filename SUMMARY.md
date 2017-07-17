@@ -10,4 +10,5 @@
 * [什么是cookies,我要怎么设置cookies](shi-yao-shi-cookies-wo-yao-zen-yao-she-zhi-cookies.md)
 * [什么是webhook,我要怎么设置webhook](shi-yao-shi-webhook-woyao-zen-yao-she-zhi-webhook.md)
 * [需要登录的网站，如何用造数采集？](xu-yao-deng-lu-de-wang-zhan-ff0c-ru-he-yong-zao-shu-cai-ji-ff1f.md)
+* [如何采集多个网页的数据](ru-he-cai-ji-duo-ge-wang-ye-de-shu-ju.md)
 
