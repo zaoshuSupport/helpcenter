@@ -16,4 +16,5 @@
 * [如何爬取需要不断加载的网页（手动点击加载）](ru-he-pa-qu-xu-yao-bu-duan-jia-zai-de-wang-ye-ff08-shou-dong-jia-zai.md)
 * [造数包月套餐和价格？](zao-shu-bao-yue-tao-can-he-jia-ge-ff1f.md)
 * [造数全新的注册流程](zao-shu-quan-xin-de-zhu-ce-liu-cheng.md)
+* [充值可以开发票吗？](chong-zhi-ke-yi-kai-fa-piao-ma-ff1f.md)
 
