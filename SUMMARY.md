@@ -12,4 +12,10 @@
 * [如何采集多个网页的数据](ru-he-cai-ji-duo-ge-wang-ye-de-shu-ju.md)
 * [网页中有弹出广告，如何去除？](wang-ye-zhong-you-dan-chu-guang-gao-ff0c-ru-he-qu-chu-ff1f.md)
 * [如何爬取需要不断加载的网页（自动加载）](ru-he-pa-qu-xu-yao-bu-duan-jia-zai-de-wang-ye-ff08-zi-dong-jia-zai-ff09.md)
+* [如何爬取需要不断加载的网页（手动点击加载）](/ru-he-pa-qu-xu-yao-bu-duan-jia-zai-de-wang-ye-ff08-shou-dong-jia-zai.md)
+* [充值可以开发票吗？](/chong-zhi-ke-yi-kai-fa-piao-ma-ff1f.md)
+* [造数包月套餐和价格](/zao-shu-bao-yue-tao-can-he-jia-ge-ff1f.md)
+* [造数全新的注册流程](/zao-shu-quan-xin-de-zhu-ce-liu-cheng.md)
+
+
 
