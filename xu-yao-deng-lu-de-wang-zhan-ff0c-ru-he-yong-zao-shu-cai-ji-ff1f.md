@@ -26,7 +26,7 @@
 
 
 
-**Request Method是GET，Requests Headers内容就是Headers，我们把Requests Headers所有内容复制到造数的输入框。**
+Request Method是GET，**Requests Headers**内容就是Headers，我们把Requests Headers所有内容复制到造数的输入框。
 
 ![](/assets/imp432413123ort.png)
 
