@@ -15,6 +15,7 @@
 下面介绍如何使用造数爬取豆瓣首页内容。
 
 在已经登录豆瓣的情况下，单击鼠标右键——检查（或者F12）——选择Network——刷新页面
+
 ![](/assets/1.jpg)
 ![](/assets/2.jpg)
 
@@ -23,7 +24,7 @@
 
 ![](/assets/imp123213213ort.png)
 
-&lt;
+
 
 **Request Method是GET，Requests Headers内容就是Headers，我们把Requests Headers所有内容复制到造数的输入框。**
 
