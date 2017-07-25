@@ -2,7 +2,7 @@
 
 
 
-1、任务失败原因是多方面的，可能是没有匹配到数据、可能是超时等等。您可以发送邮箱到[support@zaoshi.io](mailto:support@zaoshi.io)咨询，造数会尽快为您解答。
+1、任务失败原因是多方面的，可能是没有匹配到数据、可能是超时等等。您可以发送邮箱到[support@zaoshu.io](mailto:support@zaoshu.io)咨询，造数会尽快为您解答。
 
 
 
