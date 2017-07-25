@@ -1,4 +1,4 @@
-## **如何采集需要登录的页面的数据？**
+# 如何采集需要登录的页面的数据？
 
 需要登录的页面数据采集，一定要保证使用合法或被授权的的账户来登录。
 
@@ -8,7 +8,7 @@
 
 （教程浏览器为Chrome，不同浏览器方法不同）
 
-**1、如何使用GET方法**
+## 1、如何使用GET方法
 
 点击“切换为高级姿势”，看到需要输入URL、Headers和Cookies。URL就是网址的链接，我们需要获得Headers和Cookies。
 
@@ -16,15 +16,12 @@
 
 在已经登录豆瓣的情况下，单击鼠标右键——检查（或者F12）——选择Network——刷新页面
 
-![](/assets/1.jpg)
+![](/assets/1.jpg)  
 ![](/assets/2.jpg)
-
 
 选中ALL下面的第一个链接www.douban.com，可以看到如下内容
 
 ![](/assets/imp123213213ort.png)
-
-
 
 Request Method是GET，**Requests Headers**内容就是Headers，我们把Requests Headers所有内容复制到造数的输入框。
 
@@ -38,7 +35,7 @@ Request Method是GET，**Requests Headers**内容就是Headers，我们把Reques
 
 ![](/assets/im2port.png)
 
-**2、如何使用POST方法**
+## 2、如何使用POST方法
 
 ![](/assets/impor常常t.png)
 
@@ -62,3 +59,10 @@ schword=%E5%B8%82%E5%9C%BA&searchword=pub%2Fnewsite%2F&channelid=3858&whereId=
 
 以上是需要登录的网站如何采集数据的指导说明。
 
+## 3、快速获取 Cookies
+
+将此链接拖拽到浏览器的书签栏/收藏夹栏:
+
+[获得 Cookie](javascript:window.prompt%28'%E8%AF%B7%E5%A4%8D%E5%88%B6%E4%BB%A5%E4%B8%8B%20Cookie',document.cookie%29)
+
+浏览任意网页时，点击该书签，即可获取当前在该网站的 Cookie，复制并粘贴在造数的 Cookies 输入框中即可。
