@@ -24,4 +24,5 @@
 * [关于浏览器选择问题](guan-yu-liu-lan-qi-xuan-ze-wen-ti.md)
 * [什么是高级匹配模式？](shi-yao-shi-gao-ji-pi-pei-mo-shi-ff1f.md)
 * [简单模式下如何修改列的名称？](jian-dan-mo-shi-xia-ru-he-xiu-gai-lie-de-ming-cheng-ff1f.md)
+* [如何单独选择某一个数据？](ru-he-dan-du-xuan-ze-mou-yi-ge-shu-ju-ff1f.md)
 
