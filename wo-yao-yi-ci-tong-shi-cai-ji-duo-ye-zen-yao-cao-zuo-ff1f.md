@@ -16,6 +16,7 @@
 
 可以发现翻页规律就是page=的值，在造数中应该这样设置：
 
+
 `https://list.jd.com/list.html?cat=9987,653,655&page={{1-100}}`
 
 ![](/assets/impor)
