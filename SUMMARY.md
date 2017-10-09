@@ -25,4 +25,5 @@
 * [什么是高级匹配模式？](shi-yao-shi-gao-ji-pi-pei-mo-shi-ff1f.md)
 * [简单模式下如何修改列的名称？](jian-dan-mo-shi-xia-ru-he-xiu-gai-lie-de-ming-cheng-ff1f.md)
 * [如何单独选择某一个数据？](ru-he-dan-du-xuan-ze-mou-yi-ge-shu-ju-ff1f.md)
+* [高级模式下如何编辑列中的元素？](ru-he-bian-ji-lie-zhong-de-yuan-su-ff1f.md)
 
