@@ -20,7 +20,9 @@
 
 `https://list.jd.com/list.html?cat=9987,653,655&page={{1-100}}`
 
-![](/assets/impor)
+![](http://ot891jgya.bkt.clouddn.com/84843.png)
+
+
 
 3、重新执行任务，将爬取10个网页。
 
