@@ -26,4 +26,7 @@
 * [简单模式下如何修改列的名称？](jian-dan-mo-shi-xia-ru-he-xiu-gai-lie-de-ming-cheng-ff1f.md)
 * [如何单独选择某一个数据？](ru-he-dan-du-xuan-ze-mou-yi-ge-shu-ju-ff1f.md)
 * [高级模式下如何编辑列中的元素？](ru-he-bian-ji-lie-zhong-de-yuan-su-ff1f.md)
+* [什么是“链接”列](shi-yao-shi-201c-lian-jie-201d-lie.md)
+* [如何创建一个新列？](ru-he-chuang-jian-yi-ge-xin-lie-ff1f.md)
+* [为什么有的数据列是空的?](wei-shi-yao-you-de-shu-ju-shi-kong-76843f.md)
 
